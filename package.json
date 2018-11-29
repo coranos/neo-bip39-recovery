@@ -1,0 +1,22 @@
+{
+	"name": "neo-bip39-recovery",
+	"version": "0.0.1",
+	"description": "bip39 recovery for NEO",
+	"main": "index.js",
+	"author": "(https://github.com/coranos)",
+	"repository": "coranos/bip39yekta",
+	"license": "MIT",
+	"scripts": {
+		"build": "webpack"
+	},
+	"_not_dependencies": {},
+	"dependencies": {
+		"bip39": "^2.4.0"
+	},
+	"devDependencies": {
+		"browserify": "^16.2.3",
+		"babel-core": "^6.26.3",
+		"babel-loader": "^7.1.2",
+		"json-loader": "^0.5.7"
+	}
+}
